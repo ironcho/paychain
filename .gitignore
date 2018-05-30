@@ -1,0 +1,9 @@
+.idea/*
+*.pyc
+.vscode/*
+peerconnector.json
+peermgr.json
+_BlockStorage/*
+_ContractStorage/*
+_DataStorage/*
+_VotingStorage/*

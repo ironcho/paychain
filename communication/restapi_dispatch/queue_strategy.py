@@ -1,0 +1,3 @@
+
+QUERY_DEQUEUE_INTERVAL = 1  # second
+SAVE_TX_DEQUEUE_INTERVAL = 1  # second
