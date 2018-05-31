@@ -1,0 +1,18 @@
+{
+    "block_header": {
+        "block": null,
+        "block_hash": "bb163622177a9fc6ed34f3df0009887f0a8301eb9ef751d2ff341de2f1728c93",
+        "block_id": "genesis_block",
+        "block_info": "N/Ad27f90c508475c3e9ecad7b44a1f2f980521e6f161a8643bfb4541889878c74d",
+        "block_number": "1",
+        "merkle_root": "d27f90c508475c3e9ecad7b44a1f2f980521e6f161a8643bfb4541889878c74d",
+        "miner": "Base Lab",
+        "nonce": "N/A",
+        "num_tx": "1",
+        "prev_hash": "N/A",
+        "timestamp": "20170904",
+        "type": "B",
+        "vote_result": "N/A"
+    },
+    "tx_list": "Base lab logchain project"
+}
