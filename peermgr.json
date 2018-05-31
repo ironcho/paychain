@@ -1,0 +1,12 @@
+{
+    "PEER_MGR": {
+        "ID": "pc producer",
+        "IP": "163.239.200.185",
+        "PORT": 9999
+    },
+    "PEER_CONNECTOR_PORT": 8888,
+    "PEER_LIST": [
+        "py1",
+        "py2"
+    ]
+}
